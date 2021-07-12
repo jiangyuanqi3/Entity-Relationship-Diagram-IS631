@@ -14,9 +14,6 @@
     <img src="/2.2.2019.jpg" alt="HTML5 Icon" >
     <img src="/2.17.2019.jpg" alt="HTML5 Icon" >
 
-    <br />
-
-    </section>
 </div>
 
 
