@@ -14,10 +14,12 @@
       Entity Relationship Diagram IS631
       Entity Relationship Diagram IS631  <br /><br />
 
+<div>
       
       <img src="2.2.2019.jpg">
       <img src="2.17.2019.jpg">
       
+</div>
     <br />
 
 </div>
