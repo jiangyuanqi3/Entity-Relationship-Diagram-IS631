@@ -10,10 +10,9 @@
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
     <br />
-     Hi ! <br /><br />
-    <img src="/2.2.2019.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
-      <img src="2.2.2019.jpg">
-      <img src="2.17.2019.jpg">
+     Hi! Entity-Relationship-Diagram <br /><br />
+    <img src="/2.2.2019.jpg" alt="HTML5 Icon" >
+    <img src="/2.17.2019.jpg" alt="HTML5 Icon" >
 
     <br />
 
