@@ -10,18 +10,17 @@
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
     <br />
-      Hi !<br /><br />
-      Entity Relationship Diagram IS631
-      Entity Relationship Diagram IS631  <br /><br />
-
-<div>
+     Hi ! <br /><br />
+    I am a young coder currently having school time in India.<br />
+    I love intelligent-coding, algorithms and logics and<br />
+    enjoy playing Cricket and Badminton.<br />
       
       <img src="2.2.2019.jpg">
       <img src="2.17.2019.jpg">
-      
-</div>
+
     <br />
 
+    </section>
 </div>
 
 
