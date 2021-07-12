@@ -10,7 +10,8 @@
 <div id="main_content_wrap" class="outer">
     <section id="main_content" class="inner">
     <br />
-     Hi! Entity-Relationship-Diagram <br /><br />
+   Welcome! Entity-Relationship-Diagram
+   Allen Yuanqi Jiang Feb/2019<br /><br />
     <img src="/2.2.2019.jpg" alt="HTML5 Icon" >
     <img src="/2.17.2019.jpg" alt="HTML5 Icon" >
 
