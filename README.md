@@ -11,10 +11,7 @@
     <section id="main_content" class="inner">
     <br />
      Hi ! <br /><br />
-    I am a young coder currently having school time in India.<br />
-    I love intelligent-coding, algorithms and logics and<br />
-    enjoy playing Cricket and Badminton.<br />
-      
+    <img src="/2.2.2019.jpg" alt="HTML5 Icon" style="width:128px;height:128px;">
       <img src="2.2.2019.jpg">
       <img src="2.17.2019.jpg">
 
